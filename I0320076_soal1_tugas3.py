@@ -20,4 +20,4 @@ for nama in list:
     print(nama)
 
 #Menampilkan panjang list
-print('Panjang listnya adalah:',len(list))
+print('Panjang listnya adalah: ',len(list))
